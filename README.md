@@ -1,9 +1,14 @@
 This is a final project assignment for Coding for Economists classes
 by Gulnaz Sagatova
 
+The dataset **`food-health.csv`** includes information about people’s eating habits and several health indicators such as BMI, cholesterol, and blood pressure. The main idea of this project is to look at how eating habits might be related to basic health conditions.  
+
+My main goal was to practice data cleaning and analysis using **Python** and **Stata** for data cleaning, organization, and simple analysis. 
+
+
 ## Folder structure
-In data folder you can download data 
-In code folder you can see both python and stata codes 
+- In data folder you can download data
+- In code folder you can see both python and stata codes 
 
 ## How to reproduce the work 
 ### Python
